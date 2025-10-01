@@ -11,7 +11,7 @@ import javax.swing.JColorChooser;
 
 /**
  *
- * @author Admin
+ * @author Mateusz Kowieski
  */
 public class paintDesign extends javax.swing.JFrame {
 
